@@ -114,7 +114,7 @@ Notebooks must be run in order — each one builds on the output of the previous
 
 ## TODO
 
-- [ ] Fix country name mismatches to increase merged dataset from 131 to ~150+ countries (e.g. 'Turkiye' vs 'Turkey')
+- [X] Fix country name mismatches to increase merged dataset from 131 to ~150+ countries (e.g. 'Turkiye' vs 'Turkey')
 - [ ] Build Linear Regression model (`03_linear_regression.ipynb`)
 - [ ] Build Random Forest model (`04_random_forest.ipynb`)
 - [ ] K-Means clustering (`05_kmeans.ipynb`)
